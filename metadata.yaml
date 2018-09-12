@@ -1,0 +1,39 @@
+_repo: Pikku-miehia_51172
+_version: 0.0.1
+alternative_title: Little men. Finnish
+contributor:
+  translator:
+    agent_name: Hynynen, Ville
+    gutenberg_agent_id: '44162'
+    url: http://www.gutenberg.org/2009/agents/44162
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, Louisa M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: 'Translation of: Little Men'
+gutenberg_issued: '2016-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51172'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'New England -- History -- 19th century -- Fiction'
+- !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'Family life -- New England -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Pikku miehiä
+url: http://www.gutenberg.org/ebooks/51172
